@@ -1,0 +1,4 @@
+model_name: Random Forest
+accuracy: 0.7792207792207793
+roc_auc: 0.8178703703703704
+cv_score: 0.7687724910035986
